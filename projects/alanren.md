@@ -1,4 +1,4 @@
-# Ml5.js Website Functionality Enhancement and Examples with Built-in Editor
+# ml5.js Website Functionality Enhancement and Examples with Built-in Editor
 
 ## Abstract
 
