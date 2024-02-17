@@ -5,7 +5,7 @@ By Xiaozao Wang
 
 This project aims at contributing to the principles of "Explainable AI", which emphasizes the importance of explainability and interpretability of machine learning models beyonds mere accuracy. In this project, I want to build an interactive demonstration of a well-known machine learning model (probably the neural network), which unveils its internal workings and allowing the viewers to modify the parameters. This facilitates artists in getting a better understanding of how everything works inside the "blackbox" and unlock their creative potential within their own ml5 projects. 
 
-Target audience: Artists and designers who want to understand and make use of machine learning in their works.
+Target audience: Artists and creative coders who want to understand and make use of machine learning in their works.
 
 
 ## Final Deliverable
