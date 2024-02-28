@@ -2,6 +2,8 @@
 
 Add your name, a link to your research proposal—see [template.md](template.md)—and a one sentence summary of your project.
 
+* name - [research project title](template.md) - one sentence description
+* Dror - [Context ml5](dror.md) - an AI powered learning platform that teaches creatives to use ml5
 - Tres - [Generative Audio in ml5.js](tres_proposal.md) - Researching suitable machine learning models for audio generation in the browser
 - Alan Ren - [ml5.js Website Functionality Enhancement and Examples with Built-in Editor](alanren.md) - Enhance the ml5.js website and built-in code editor.
 - Myrah Sarwar - [Increasing Accessibility](msarwar-proposal.md) - Improve readability and accessibility of documentation on the ml5.js website.
