@@ -9,3 +9,4 @@ Add your name, a link to your research proposal—see [template.md](template.md)
 - Myrah Sarwar - [Increasing Accessibility](msarwar-proposal.md) - Improve readability and accessibility of documentation on the ml5.js website.
 - Xiaozao Wang - [Interactive Machine Learning for Beginners](Xiaozao_Wang.md) - Help beginners understand how machine learning works behind the scene through interactive web materials.
 - Anya - [Ethics of the Datasets](anya_proposal.md) - Delving into the datasets supporting a ml5.js model and explore avenues for enhancing the library's documentation. 
+- Jack B. Du - [Machine Learning Tutorials for Absolute Beginners](jackbdu-proposal.md) - Creating beginner-friendly educational materials fostering creative explorations with ml5.js.
